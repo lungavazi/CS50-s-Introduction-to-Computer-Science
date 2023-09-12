@@ -11,7 +11,6 @@ I have created a Monkey and Banana game.
 When the game starts, the Monkey is standing still, and the bananas are randomly moving around the screen. 
 There is a score and a timer at the top of the screen. 
 The score starts at zero and increments as the Monkey touches the banana, and the user selects the [SPACE] key.
-A timer starts at 30 and decreases as the banana touch the edge/walls. But, also increases by one when the above even happens.
+A timer starts at 30 and decreases as the banana touches the edge/walls. But, also increases by one when the above even happens.
 A user must use the UP, DOWN, LEFT, and RIGHT arrow keys to control the monkey.
 Once the timer reaches 0, the Game is Over.
-
